@@ -1,2 +1,1 @@
-# JayOtium.GitHub.io
-## Placeholder
+# My Portfolio
