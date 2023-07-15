@@ -4,9 +4,9 @@
     grid-template-rows: repeat(2, 1fr);
     
 }
-div{
+div.content{
     background-color: azure;
 }
-div:nth-last-of-type(odd){
+div.content:nth-of-type(odd){
     background-color: darkslategray;
 }
